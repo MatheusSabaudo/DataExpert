@@ -1,4 +1,4 @@
-```markdown
+
 # DataExpert.io Bootcamp - Data Engineering Learning Journey
 
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Bootcamp-blue)
@@ -188,4 +188,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <sub>Learning data engineering one cumulative table at a time</sub><br>
   <sub>⭐ Star this repo if you find it helpful! ⭐</sub>
 </div>
-```
