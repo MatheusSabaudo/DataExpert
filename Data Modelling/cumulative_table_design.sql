@@ -20,8 +20,8 @@ Data Flow:
 3. Incrementally load data season by season
 4. Query examples for analysis
 
-Author: Analytics Engineering Team
-Last Modified: 2024
+Author: Matheus Sabaudo Rodrigues
+Last Modified: 06/03/2026
 ===============================================================================
 */
 
